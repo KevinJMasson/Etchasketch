@@ -13,3 +13,11 @@ for (let i = 0; i<gridNum;i++) {
     }
     grid.appendChild(row);
 }
+
+const squares = document.querySelectorAll('.square');
+
+squares.forEach((square) => {
+    square.addEventListener('mouseover', function(e) {
+        e.target.style.background = 'black';
+    });
+});
