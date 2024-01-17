@@ -1,0 +1,18 @@
+#grid {
+    display:flex;
+    flex-direction: column;
+    border: 3px solid black;
+    align-items: center;
+}
+
+.row {
+    display:flex;
+    border: 3px solid blue;
+}
+
+.square {
+    height: 60px;
+    width: 60px;
+    border: 3px solid red;
+}
+
