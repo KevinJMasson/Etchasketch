@@ -10,5 +10,5 @@ I completed this using event listeners to all squares created on the grid, which
 <h2>Improvements that can be made</h2>
 <ul>
   <li>Change events tracked into seeing if the mouse is current held down, so that you aren't forced to draw from the border</li>
-  <li>Stop the user from creating grids big enough to slow down the browser (e.g. if the user inputs 960, the size of the grid, the browser has to create 900 000+ divs which slows the browser down</li>
+  <li>Stop the user from creating grids big enough to slow down the browser (e.g. if the user inputs 960, the size of the grid, the browser has to create 900 000+ divs which slows the browser down)</li>
 </ul>
