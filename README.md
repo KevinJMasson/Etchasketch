@@ -1,0 +1,2 @@
+<h1>Etch-a-sketch</h1>
+This is my javascript practice of the Odin Project's etch-a-sketch project. This project aims to practice the DOM manipulation of adding and removing objects, and handling event listeners to create a cohesive app.
